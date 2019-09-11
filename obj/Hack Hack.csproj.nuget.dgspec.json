@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\atroo_000\\Documents\\BootCamp\\DEMO\\HackHackDEMO\\Hack Hack\\Hack Hack.csproj": {}
+    "C:\\Users\\Kele\\Documents\\BootCamp\\GitProjects\\GitHack\\Hack Hack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\atroo_000\\Documents\\BootCamp\\DEMO\\HackHackDEMO\\Hack Hack\\Hack Hack.csproj": {
+    "C:\\Users\\Kele\\Documents\\BootCamp\\GitProjects\\GitHack\\Hack Hack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atroo_000\\Documents\\BootCamp\\DEMO\\HackHackDEMO\\Hack Hack\\Hack Hack.csproj",
+        "projectUniqueName": "C:\\Users\\Kele\\Documents\\BootCamp\\GitProjects\\GitHack\\Hack Hack.csproj",
         "projectName": "Hack Hack",
-        "projectPath": "C:\\Users\\atroo_000\\Documents\\BootCamp\\DEMO\\HackHackDEMO\\Hack Hack\\Hack Hack.csproj",
-        "packagesPath": "C:\\Users\\atroo_000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atroo_000\\Documents\\BootCamp\\DEMO\\HackHackDEMO\\Hack Hack\\obj\\",
+        "projectPath": "C:\\Users\\Kele\\Documents\\BootCamp\\GitProjects\\GitHack\\Hack Hack.csproj",
+        "packagesPath": "C:\\Users\\Kele\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kele\\Documents\\BootCamp\\GitProjects\\GitHack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\atroo_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kele\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

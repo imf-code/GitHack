@@ -5,7 +5,8 @@ namespace Hack
     public class Parser
     {
         //Init
-        static string message = "";
+        static string mess = "";
+        public static string Message { get { return mess; } }
         static Player character = General.Name;
         static int[] charPos = character.CharPos;
 
@@ -21,7 +22,7 @@ namespace Hack
                     Move(input);
                     break;
                 default:
-                    message = "Unknown command.";
+                    mess = "Unknown command.";
                     break;
             }
         }
@@ -56,15 +57,14 @@ namespace Hack
             }
             else
             {
-                message = message + "Cannot move in that direction.";
+                mess += "Cannot move in that direction.";
             }
         }
 
-        //Print messages from movement
-        public static void MoveMsg()
+        //Empty mess
+        public static void ClrMsg()
         {
-            Console.WriteLine(message);
-            message = "";
+            mess = "";
         }
     }
 }

@@ -9,3 +9,14 @@ C:\Users\atroo_000\Documents\BootCamp\DEMO\HackHackDEMO\Hack Hack\obj\Debug\netc
 C:\Users\atroo_000\Documents\BootCamp\DEMO\HackHackDEMO\Hack Hack\obj\Debug\netcoreapp2.1\Hack Hack.AssemblyInfo.cs
 C:\Users\atroo_000\Documents\BootCamp\DEMO\HackHackDEMO\Hack Hack\obj\Debug\netcoreapp2.1\Hack Hack.dll
 C:\Users\atroo_000\Documents\BootCamp\DEMO\HackHackDEMO\Hack Hack\obj\Debug\netcoreapp2.1\Hack Hack.pdb
+C:\Users\Kele\Documents\BootCamp\GitProjects\GitHack\obj\Debug\netcoreapp2.1\Hack Hack.csprojAssemblyReference.cache
+C:\Users\Kele\Documents\BootCamp\GitProjects\GitHack\obj\Debug\netcoreapp2.1\Hack Hack.csproj.CoreCompileInputs.cache
+C:\Users\Kele\Documents\BootCamp\GitProjects\GitHack\obj\Debug\netcoreapp2.1\Hack Hack.AssemblyInfoInputs.cache
+C:\Users\Kele\Documents\BootCamp\GitProjects\GitHack\obj\Debug\netcoreapp2.1\Hack Hack.AssemblyInfo.cs
+C:\Users\Kele\Documents\BootCamp\GitProjects\GitHack\obj\Debug\netcoreapp2.1\Hack Hack.dll
+C:\Users\Kele\Documents\BootCamp\GitProjects\GitHack\obj\Debug\netcoreapp2.1\Hack Hack.pdb
+C:\Users\Kele\Documents\BootCamp\GitProjects\GitHack\bin\Debug\netcoreapp2.1\Hack Hack.deps.json
+C:\Users\Kele\Documents\BootCamp\GitProjects\GitHack\bin\Debug\netcoreapp2.1\Hack Hack.runtimeconfig.json
+C:\Users\Kele\Documents\BootCamp\GitProjects\GitHack\bin\Debug\netcoreapp2.1\Hack Hack.runtimeconfig.dev.json
+C:\Users\Kele\Documents\BootCamp\GitProjects\GitHack\bin\Debug\netcoreapp2.1\Hack Hack.dll
+C:\Users\Kele\Documents\BootCamp\GitProjects\GitHack\bin\Debug\netcoreapp2.1\Hack Hack.pdb

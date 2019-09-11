@@ -8,6 +8,7 @@ namespace Hack
         static string[,] map;
         static string[,] baseMap;
         static string collisionType = "";
+        static int msgLength;
 
         //Load map into memory
         public static void MakeMap()
@@ -28,7 +29,12 @@ namespace Hack
         //Draw map from memory, display message
         public static void DrawMap()
         {
-            Console.Clear();
+            //Clear screen
+            Console.SetCursorPosition(0, baseMap.GetUpperBound(0) + 1);
+            for (int emptier = 0; emptier < msgLength; emptier++) { Console.Write(" "); }
+            Console.SetCursorPosition(0,0);
+
+            //Draw map
             for (int row = 0; row < map.GetLength(0); row++)
             {
                 for (int column = 0; column < map.Length / map.GetLength(0); column++)
@@ -37,7 +43,11 @@ namespace Hack
                 }
                 Console.WriteLine("");
             }
-            Parser.MoveMsg();
+
+            //Message at the bottom
+            Console.WriteLine(Parser.Message);
+            msgLength = Parser.Message.Length;
+            Parser.ClrMsg();
         }
 
         //General collision check

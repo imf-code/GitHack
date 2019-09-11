@@ -16,6 +16,7 @@ namespace Hack
                 switch (input.Key)
                 {
                     case ConsoleKey.N:
+                        Console.Clear();
                         return input;
                     case ConsoleKey.Q:
                         return input;
