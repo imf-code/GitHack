@@ -1,0 +1,11 @@
+C:\Users\atroo_000\Documents\BootCamp\DEMO\HackHackDEMO\Hack Hack\bin\Debug\netcoreapp2.1\Hack Hack.deps.json
+C:\Users\atroo_000\Documents\BootCamp\DEMO\HackHackDEMO\Hack Hack\bin\Debug\netcoreapp2.1\Hack Hack.runtimeconfig.json
+C:\Users\atroo_000\Documents\BootCamp\DEMO\HackHackDEMO\Hack Hack\bin\Debug\netcoreapp2.1\Hack Hack.runtimeconfig.dev.json
+C:\Users\atroo_000\Documents\BootCamp\DEMO\HackHackDEMO\Hack Hack\bin\Debug\netcoreapp2.1\Hack Hack.dll
+C:\Users\atroo_000\Documents\BootCamp\DEMO\HackHackDEMO\Hack Hack\bin\Debug\netcoreapp2.1\Hack Hack.pdb
+C:\Users\atroo_000\Documents\BootCamp\DEMO\HackHackDEMO\Hack Hack\obj\Debug\netcoreapp2.1\Hack Hack.csprojAssemblyReference.cache
+C:\Users\atroo_000\Documents\BootCamp\DEMO\HackHackDEMO\Hack Hack\obj\Debug\netcoreapp2.1\Hack Hack.csproj.CoreCompileInputs.cache
+C:\Users\atroo_000\Documents\BootCamp\DEMO\HackHackDEMO\Hack Hack\obj\Debug\netcoreapp2.1\Hack Hack.AssemblyInfoInputs.cache
+C:\Users\atroo_000\Documents\BootCamp\DEMO\HackHackDEMO\Hack Hack\obj\Debug\netcoreapp2.1\Hack Hack.AssemblyInfo.cs
+C:\Users\atroo_000\Documents\BootCamp\DEMO\HackHackDEMO\Hack Hack\obj\Debug\netcoreapp2.1\Hack Hack.dll
+C:\Users\atroo_000\Documents\BootCamp\DEMO\HackHackDEMO\Hack Hack\obj\Debug\netcoreapp2.1\Hack Hack.pdb
